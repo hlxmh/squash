@@ -41,9 +41,3 @@ Squash differs from such apps through its focus on reviewing already completed c
       Leetcode problems and that it would be nice to have a way to study on-the-go.
       Debugging is already inherently less code than implementing, but we thought that we
       could still become more mobile-friendly.
-
-## Releases
-- [SPRINT 1](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Release-Notes/02.16-(SPRINT-1))
-- [SPRINT 2](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Release-Notes/03.08-(SPRINT-2))
-- [SPRINT 3](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Release-Notes/03.22-(SPRINT-3))
-- [SPRINT 4](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Release-Notes/04.05-(SPRINT-4))
