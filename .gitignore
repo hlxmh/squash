@@ -1,0 +1,63 @@
+../.gradle
+../build/
+!../gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+/local.properties
+/.gradle
+application/build
+android/build
+models/build
+server/build
+build
+
+
+### IntelliJ IDEA ###
+.idea/gradle.xml
+.idea/misc.xml
+.idea/libraries
+.idea/dictionaries
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+application/.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
