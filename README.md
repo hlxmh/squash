@@ -1,8 +1,4 @@
-# Squash (Team 14)
-
-[Project Proposal](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Project-Proposal)
-
-[Installer (v4.0.0)](https://git.uwaterloo.ca/m98huang/team-14/-/blob/main/cs346-project-4.0.0.exe?ref_type=heads)
+# Squash
 
 ## Members
 Stefan Min (j28min@uwaterloo.ca)
@@ -45,15 +41,6 @@ Squash differs from such apps through its focus on reviewing already completed c
       Leetcode problems and that it would be nice to have a way to study on-the-go.
       Debugging is already inherently less code than implementing, but we thought that we
       could still become more mobile-friendly.
-
-## [User Documentation](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/User-Instructions)
-
-## Design Documentation
-- [Class Diagrams](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Design-Doc/Class-Diagrams)
-- [Personas](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Design-Doc/Personas)
-- [Component Diagram](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Design-Doc/Component-Diagram)
-
-## [Reflections](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Reflections)
 
 ## Releases
 - [SPRINT 1](https://git.uwaterloo.ca/m98huang/team-14/-/wikis/Release-Notes/02.16-(SPRINT-1))
