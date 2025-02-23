@@ -1,5 +1,7 @@
 # Squash
 
+built using Kotlin (Multiplatform), Compose for UI, Ktor for websocket, MVC (+ ViewModel), Judge0 for code submissions
+
 ## Members
 Stefan Min (j28min@uwaterloo.ca)
 Michael Huang (m98huang@uwaterloo.ca)
